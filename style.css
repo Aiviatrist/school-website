@@ -1,0 +1,11 @@
+#h{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+#myNavbar{
+    position: sticky;
+    text-decoration: none;
+    writing-mode:horizontal-tb ;
+    
+}
